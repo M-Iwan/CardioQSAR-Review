@@ -14,7 +14,9 @@ Core input data used throughout the project.
 - `data/supporting_tables/` — machine-readable versions of the main supporting tables
 - `data/performance/` — extracted model performance data used for retrospective analyses
 - `data/deposition/` — processed deposition/count summaries used for ChEMBL-based analyses
-- `data/ChEMBL/` — raw, intermediate, mapped, and processed files for the ChEMBL-derived analyses
+- `data/ChEMBL.tar.xz` — raw, intermediate, mapped, and processed files for the ChEMBL-derived analyses
+- `data/BindingDB.tar.xz` — raw, intermediate, mapped, and processed files for the BindingDB-derived analyses
+- `data/PubChem.tar.xz/` — raw, intermediate, mapped, and processed files for the PubChem-derived analyses
 - `data/ECG/` — input files used for the ECG / action potential figure
 
 ### `notebooks/`
