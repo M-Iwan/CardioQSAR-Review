@@ -14,7 +14,7 @@ This repository contains the data, notebooks, figures, and statistical outputs r
 Core input data used throughout the project.
 
 - `data/ChEMBL.tar.xz` - raw, intermediate, processed, and related mapping files for the ChEMBL-derived analyses
-- `data/BindingDB.tar.xz` - BindingDB data for secondary channels
+- `data/BindingDB.tar.xz` - BindingDB-derived data for secondary channels
 - `data/PubChem.tar.xz` - PubChem-derived data for secondary channels
 - `data/deposition/` - deposition and count summaries based on the ChEMBL data
 - `data/performance/` - machine-readable data used for quantifying models performance
