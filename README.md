@@ -1,5 +1,7 @@
 # CardioQSAR-Review
 
+[![DOI](https://zenodo.org/badge/1339361831.svg)](https://doi.org/10.5281/zenodo.22272567)
+
 Companion repository for the manuscript:
 
 **25 Years of Cardiac Ion Channel QSAR: From hERG Dominance to Multi-Channel Modelling**
