@@ -1,6 +1,6 @@
 # CardioQSAR-Review
 
-[![Repository DOI](https://zenodo.org/badge/1339361831.svg)](https://doi.org/10.5281/zenodo.22272567)
+[![Repository DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22272567.svg)](https://doi.org/10.5281/zenodo.22272567)
 [![Manuscript DOI](https://img.shields.io/badge/DOI-10.1021%2Facs.jcim.6c03072-blue)](https://doi.org/10.1021/acs.jcim.6c03072)
 
 Companion repository for the manuscript:
