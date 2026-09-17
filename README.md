@@ -48,4 +48,4 @@ If you use this repository or any of its contents (including the data, notebooks
 
 > Iwan, M., Grisoni, F., Pentina, A., Garcia de Lomana, M., & Roncaglioni, A. (2026). *25 Years of Cardiac Ion Channel QSAR: From hERG Dominance to Multi-Channel Modelling*. **Journal of Chemical Information and Modeling**. <https://doi.org/10.1021/acs.jcim.6c03072>
 
-*The manuscript has been accepted for publication. Final bibliographic details, including volume, issue, and page range, will be added following publication of the final version.*
+*The manuscript has published online. Final bibliographic details, including volume, issue, and page range, will be added following publication of the final version.*
