@@ -5,7 +5,7 @@
 
 Companion repository for the manuscript:
 
-> **25 Years of Cardiac Ion Channel QSAR: From hERG Dominance to Multi-Channel Modelling**
+> **25 Years of Cardiac Ion Channel QSAR: From hERG Dominance to Multi-Channel Modeling**
 
 This repository contains the data, Jupyter notebooks, rendered figures, and statistical outputs needed to reproduce the primary results and supporting analyses reported in the accompanying manuscript.
 
@@ -46,6 +46,6 @@ This study was funded by the Horizon Europe funding programme, under the Marie S
 
 If you use this repository or any of its contents (including the data, notebooks, figures, statistical outputs, or other supporting materials) please cite the accompanying manuscript:
 
-> Iwan, M., Grisoni, F., Pentina, A., Garcia de Lomana, M., & Roncaglioni, A. (2026). *25 Years of Cardiac Ion Channel QSAR: From hERG Dominance to Multi-Channel Modelling*. **Journal of Chemical Information and Modeling**. <https://doi.org/10.1021/acs.jcim.6c03072>
+> Iwan, M., Grisoni, F., Pentina, A., Garcia de Lomana, M., & Roncaglioni, A. (2026). *25 Years of Cardiac Ion Channel QSAR: From hERG Dominance to Multi-Channel Modeling*. **Journal of Chemical Information and Modeling**. <https://doi.org/10.1021/acs.jcim.6c03072>
 
 *The manuscript has been published online. Final bibliographic details, including volume, issue, and page range, will be added following publication of the final version.*
