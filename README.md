@@ -26,7 +26,7 @@ Core input data used throughout the project.
 Jupyter notebooks used to prepare data, generate figures, and reproduce analyses.
 
 - `Analyses.ipynb` - main statistical analysis and calculation of relevant values
-- `ChEMBL Preparation.ipynb` - ChEMBL, BindingDB, and PubChem data processing
+- `Data Preparation.ipynb` - ChEMBL, BindingDB, and PubChem data processing
 - `Figures.ipynb` - generation of figures
 - `Supporting Tables.ipynb` - conversion of source LaTeX code in machine-readable format
 
